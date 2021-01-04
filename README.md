@@ -1,4 +1,4 @@
-# blockBreak
+#　横向きブロック崩し
 
-It's just a horizontal version of the block breaker that was originally played vertically. A block-busting template, so to speak.
-Modify it to your liking and play with it.
+FUNの課題で作成した、ブロック崩しです。
+普通のブロック崩しを横向きにしただけのものです。
